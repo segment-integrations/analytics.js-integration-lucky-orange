@@ -2,12 +2,12 @@
   "name": "analytics.js-integration-lucky-orange",
   "repo": "segment-integrations/analytics.js-integration-lucky-orange",
   "description": "The Lucky Orange analytics.js integration.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
     "segmentio/facade": "1.x",
-    "segmentio/analytics.js-integration": "0.3.x",
+    "segmentio/analytics.js-integration": "^1.0.0",
     "segmentio/use-https": "0.1.0"
   },
   "development": {
